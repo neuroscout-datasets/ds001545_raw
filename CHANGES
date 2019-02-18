@@ -1,3 +1,10 @@
+1.1.1   2019-2-18
+	
+	- Trimmed 3 volumes from functional images
+        - Trimmed videos to match event files
+        - Adjusted event files to indicate onset of movie
+        - Fixed encoding errors in event files
+
 1.1.0	2018-10-17
 
 	- added more information to the readme section
